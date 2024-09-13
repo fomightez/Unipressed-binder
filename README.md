@@ -7,7 +7,7 @@ Click any `launch binder` badge on this page to run Uniprot queries inside your 
 
 
 # Unipressed-binder
-Unipressed examples that run in MyBinder-based sessions to illustrate use of Unipressed to query Uniprot.
+Unipressed examples that run in MyBinder-servedsessions to illustrate use of Unipressed to query Uniprot.
 
 -----------------------
 
