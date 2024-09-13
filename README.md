@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/Unipressed-binder/main?urlpath=%2Flab%2Ftree%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/Unipressed-binder/main?urlpath=%2Flab%2Ftree%2FUnipressed_examples_running_via_MyBinder.ipynb)
 
 *tl;dr:*  
 Click any `launch binder` badge on this page to run Uniprot queries inside your browser.
@@ -21,5 +21,5 @@ The idea is that you can then adapt these examples to your own queries.
 ------
 
 
-JupyterLab interface: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/Unipressed-binder/main?urlpath=%2Flab%2Ftree%2Findex.ipynb)  
-Jupyter Notebook 7+:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/Unipressed-binder/main?urlpath=%2Ftree%2Findex.ipynb)
+JupyterLab interface: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/Unipressed-binder/main?urlpath=%2Flab%2Ftree%2FUnipressed_examples_running_via_MyBinder.ipynb)  
+Jupyter Notebook 7+:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/Unipressed-binder/main?urlpath=%2Ftree%2FUnipressed_examples_running_via_MyBinder.ipynb)
