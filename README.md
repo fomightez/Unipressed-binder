@@ -16,7 +16,7 @@ If you use a launch badge on this page a Jupyter notebook will be presented wher
 
 I, Wayne, am not associated with Unipressed development. For that information, see here about [Unipressed](https://multimeric.github.io/Unipressed/).    
 This repo is only set up to make it convenient to try queries of Uniprot via Unipressed in MyBinder-served sessions.  
-The idea is that you can then adapt these examples to your own queries.
+The idea is that you can then adapt these examples to your own queries and perform them without even installing anything on your own machine, provided the computational resources in the MyBinder-served session are sufficient. If not, the examples should guide you in using the code in other places or give you a place to troubleshoot with less demanding tasks.
 
 ------
 
