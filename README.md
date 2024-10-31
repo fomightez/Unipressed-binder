@@ -21,5 +21,13 @@ The idea is that you can then adapt these examples to your own queries and perfo
 ------
 
 
+### Related
+
+- I use this package to add information from UniProt to reports made for proteomically-identified human complexes listed in hu.MAP 3.0 data, see [my humap3-binder repo](https://github.com/fomightez/humap3-binder) for more information. 
+- I plan to do the same as above for hu.MAP 2.0 data, see [my humap2-binder repo](https://github.com/fomightez/humap2-binder) (if it exists).
+
+-----
+
+
 JupyterLab interface: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/Unipressed-binder/main?urlpath=%2Flab%2Ftree%2FUnipressed_examples_running_via_MyBinder.ipynb)  
 Jupyter Notebook 7+:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/Unipressed-binder/main?urlpath=%2Ftree%2FUnipressed_examples_running_via_MyBinder.ipynb)
