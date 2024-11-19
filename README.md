@@ -24,7 +24,7 @@ The idea is that you can then adapt these examples to your own queries and perfo
 ### Related use of the package
 
 - I use this package to add information from UniProt to reports made for proteomically-identified human complexes listed in hu.MAP 3.0 data, see [my humap3-binder repo](https://github.com/fomightez/humap3-binder) for more information. 
-- I plan to do the same as above for hu.MAP 2.0 data, see [my humap2-binder repo](https://github.com/fomightez/humap2-binder) (if it exists).
+- I have done much the same as above for hu.MAP 2.0 data, see [my humap2-binder repo](https://github.com/fomightez/humap2-binder).
 
 -----
 
